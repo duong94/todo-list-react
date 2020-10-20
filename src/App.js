@@ -12,7 +12,7 @@ class App extends Component {
       todoItems: [
       { title: 'Mua bim bim', isComplete: true },
       { title: 'Di da bong', isComplete: true },
-      { title: 'Di do xang' }
+      { title: 'Di do xang', isComplete: false }
       ]
     }
 
